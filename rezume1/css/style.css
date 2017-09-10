@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css?family=Lobster|Open+Sans+Condensed:300|Oswald|PT+Sans+Narrow|Roboto+Mono|Yanone+Kaffeesatz');
+
+.info{
+    background-color: red;
+    font-family: Lobster;
+    padding-left: 10px;
+    border: solid 3px green;
+}
+
+.educ{
+    background-color: green;
+    font-family: Open Sans Condensed;
+    padding-left: 10px;
+    border: solid 3px red;
+    margin:10px 0 0 0;
+}
+
+.job{
+    background-color: yellow;
+    font-family: Oswald;
+    padding-left: 10px;
+    border: solid 3px aqua;
+    margin:10px 0 0 0;
+}
+
+.skill{
+    background-color: aqua;
+    font-family: PT Sans Narrow;
+    padding-left: 10px;
+    border: solid 3px yellow;
+    margin:10px 0 0 0;
+}
+
+.interest{
+    background-color: gold;
+    font-family: Roboto Mono;
+    padding-left: 10px;
+    border: solid 3px purple;
+    margin:10px 0 0 0;
+}
+
+.add_info{
+    background-color: purple;
+    font-family: Yanone Kaffeesatz;
+    padding-left: 10px;
+    border: solid 3px gold;
+    margin:10px 0 0 0;
+}
