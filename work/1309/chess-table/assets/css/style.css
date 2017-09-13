@@ -1,0 +1,128 @@
+.chess-table {
+    border-collapse: collapse;
+    border:solid black 3px;
+}
+
+table td {
+    width: 60px;
+    height: 60px;
+    border:none;
+    text-align: center;
+    font-size: 24px;
+}
+
+.black{
+    background-color: gray;
+}
+
+.border-bottom{
+    border-bottom:solid black;
+}
+
+.border-left{
+    border-left:solid black;
+}
+
+.border-right{
+    border-right:solid black;
+}
+
+.border-top{
+    border-top:solid black;
+}
+
+.black_horse{
+    background-image: url(../../assets/img/chess.png);
+    background-position: -205px 8px;
+    background-repeat: no-repeat;
+    width:39px;
+    height: 45px;
+}
+
+.black_pawn{
+    background-image: url(../../assets/img/chess.png);
+    background-position: -257px 8px;
+    background-repeat: no-repeat;
+    width:39px;
+    height: 45px;
+}
+
+.black_eleph{
+    background-image: url(../../assets/img/chess.png);
+    background-position: -149px 9px;
+    background-repeat: no-repeat;
+    width:39px;
+    height: 45px;
+}
+
+.black_rook{
+    background-image: url(../../assets/img/chess.png);
+    background-position: -96px 9px;
+    background-repeat: no-repeat;
+    width:39px;
+    height: 45px;
+}
+
+.black_queen{
+    background-image: url(../../assets/img/chess.png);
+    background-position: -42px 9px;
+    background-repeat: no-repeat;
+    width:39px;
+    height: 45px;
+}
+
+.black_king{
+    background-image: url(../../assets/img/chess.png);
+    background-position: 12px 9px;
+    background-repeat: no-repeat;
+    width:39px;
+    height: 45px;
+}
+
+.white_horse{
+    background-image: url(../../assets/img/chess.png);
+    background-position: -205px -44px;
+    background-repeat: no-repeat;
+    width:39px;
+    height: 45px;
+}
+
+.white_pawn{
+    background-image: url(../../assets/img/chess.png);
+    background-position: -257px -44px;
+    background-repeat: no-repeat;
+    width:39px;
+    height: 45px;
+}
+
+.white_eleph{
+    background-image: url(../../assets/img/chess.png);
+    background-position: -150px -45px;
+    background-repeat: no-repeat;
+    width:39px;
+    height: 45px;
+}
+
+.white_rook{
+    background-image: url(../../assets/img/chess.png);
+    background-position: -97px -44px;
+    background-repeat: no-repeat;
+    width:39px;
+    height: 45px;
+}
+
+.white_queen{
+    background-image: url(../../assets/img/chess.png);
+    background-position: -43px -44px;
+    background-repeat: no-repeat;
+    width:39px;
+    height: 45px;
+}
+
+.white_king{
+    background-image: url(../../assets/img/chess.png);
+    background-position: 11px -44px;
+    background-repeat: no-repeat;
+    width:39px;
+    height: 45px;
+}
