@@ -1,0 +1,56 @@
+.first{
+    margin-right: -12px;
+    text-align: right;
+}
+
+.second{
+    margin-left: -12px;
+}
+
+.third{
+    margin-left:-24px;
+}
+
+.fourth{
+    margin-right:-12px;
+    text-align: right;
+}
+
+.fifth{
+    margin-right: -12px;
+    text-align: right;
+}
+
+.six{
+    margin-left: -24px;
+}
+
+.seven{
+    margin-right:-24px;
+    text-align: right;
+}
+
+.nine{
+    margin-left:-12px;
+    text-align: left;
+}
+
+.ten{
+    margin-right:-12px;
+    text-align: right;
+}
+
+.eleven{
+    margin-left:-12px;
+    text-align: left;
+}
+
+.twelwe{
+    margin-left:-12px;
+    text-align: left;
+}
+
+.thirteen{
+    margin-right:-24px;
+    text-align: right;
+}
